@@ -2,7 +2,7 @@ const donationRequestDetails = ({ params }) => {
   console.log("params", params);
   return (
     <>
-      <>HIIIIIIIIIII</>
+      <h2>HIIIIIIIIIII</h2>
     </>
   );
 };
